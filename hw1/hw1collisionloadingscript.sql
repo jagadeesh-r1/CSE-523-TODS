@@ -1,0 +1,6 @@
+LOAD FROM "C:\Users\jagad\AppData\Roaming\DBeaverData\workspace6\CSE532\Scripts\NYPD_Motor_Vehicle_Collisions2017.csv" 
+OF  DEL METHOD P ( 1, 2, 4, 5, 6, 19, 20, 24, 25, 26 ) 
+MESSAGES "C:\Users\jagad\AppData\Roaming\DBeaverData\workspace6\CSE532\Scripts\loadmsg.txt"
+INSERT INTO CSE532.COLLISION ( DATE, TIME, ZIPCODE, LATITUDE, LONGITUDE, 
+CONTRIBUTING_FACTOR_VEHICLE_1, CONTRIBUTING_FACTOR_VEHICLE_2, UNIQUE_KEY, 
+VEHICLE_TYPE_CODE_1, VEHICLE_TYPE_CODE_2 );

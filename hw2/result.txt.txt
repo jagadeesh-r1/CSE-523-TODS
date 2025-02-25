@@ -1,0 +1,13 @@
+For the procedure call ==> CALL JAGAD.GEN_SALARY_HISTOGRAM(30000, 170000, 7)
+
+this is the following result:
+
+BINNUM|FREQUENCY|BINSTART|BINEND|
+------+---------+--------+------+
+     1|       22|   30000| 50000|
+     2|       11|   50000| 70000|
+     3|        5|   70000| 90000|
+     4|        3|   90000|110000|
+     5|        0|  110000|130000|
+     6|        0|  130000|150000|
+     7|        1|  150000|170000|

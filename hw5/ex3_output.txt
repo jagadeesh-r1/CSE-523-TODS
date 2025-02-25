@@ -1,0 +1,131 @@
+AUTHORNAME                  |MOSTCOAUTHORS|
+----------------------------+-------------+
+Norman P. Jouppi            |           76|
+Peter Mattson               |           34|
+Benedict Paten              |           20|
+Yunsup Lee                  |           18|
+Colby R. Banbury            |           17|
+Sarah E. Chasins            |           17|
+Eric Jonas                  |           14|
+Ion Stoica                  |           14|
+Christoforos E. Kozyrakis   |           13|
+David A. Patterson 0001     |           13|
+Frank Austin Nothaft        |           13|
+Jeffrey Kuskin              |           13|
+Mark A. Heinrich            |           13|
+Onur Mutlu                  |           13|
+Krste Asanovic              |           12|
+Lisa Wu 0001                |           12|
+Robert B. Garner            |           12|
+Ann L. Drapeau              |           11|
+Michael Armbrust            |           11|
+Peter Bodík                 |           11|
+Robert P. Wilson            |           11|
+Ameet Talwalkar             |           10|
+Daniel T. Fitzpatrick       |           10|
+Bryan Catanzaro             |            9|
+David A. Wood 0001          |            9|
+Johann Schleier-Smith       |            9|
+Kaushik Datta               |            9|
+Matei Zaharia               |            9|
+Peter M. Chen               |            9|
+Thomas Norrie               |            9|
+Daniel Lenoski              |            8|
+David E. Culler             |            8|
+David L. Oppenheimer        |            8|
+Gaurang Upasani             |            8|
+John L. Hennessy            |            8|
+John Wawrzynek              |            8|
+Matthew D. Sinclair         |            8|
+Richard Fromm               |            8|
+Zhao Zhang 0007             |            8|
+Adam Bloniarz               |            7|
+Archana Ganapathi           |            7|
+Luiz André Barroso          |            7|
+Remzi H. Arpaci-Dusseau     |            7|
+Zhangxi Tan                 |            7|
+Aaron B. Brown              |            6|
+Andrew Waterman             |            6|
+Ariel Rabkin                |            6|
+Beth Trushkowsky            |            6|
+Henry Cook                  |            6|
+Ken Kennedy                 |            6|
+Kourosh Gharachorloo        |            6|
+Mainak Chaudhuri            |            6|
+Mark D. Hill                |            6|
+Mike Y. Chen                |            6|
+Remzi H. Arpaci             |            6|
+Thomas E. Anderson          |            6|
+Vijayaraghavan Soundararajan|            6|
+Andrea C. Arpaci-Dusseau    |            5|
+Anoop Gupta                 |            5|
+Aydin Buluç                 |            5|
+Christopher Celio           |            5|
+David Judd                  |            5|
+David M. Ungar              |            5|
+Garth A. Gibson             |            5|
+George S. Taylor            |            5|
+Jaswinder Pal Singh         |            5|
+Kimberly Keeton             |            5|
+Lisa Hellerstein            |            5|
+Michael Dahlin              |            5|
+Nisha Talagala              |            5|
+P. Carmody                  |            5|
+Paul M. Hansen              |            5|
+Pi-Feng Chiu                |            5|
+Radhika Thekkath            |            5|
+Steven W. K. Tjiang         |            5|
+Wei Xu 0012                 |            5|
+Anant Agarwal               |            4|
+Andrew Erlichson            |            4|
+Armando Fox                 |            4|
+Babak Falsafi               |            4|
+Bidyut Kumar Bose           |            4|
+Durga M. Kandasamy          |            4|
+George Candea               |            4|
+Jeannie R. Albrecht         |            4|
+Juan E. Gilbert             |            4|
+Madhusudhan Talluri         |            4|
+Martin Schulze              |            4|
+Michael Stonebraker         |            4|
+Randy H. Katz               |            4|
+Scott Beamer                |            4|
+Thomas R. Gross             |            4|
+Ann L. Chervenak            |            3|
+Carlo H. Séquin             |            3|
+Chris Holt                  |            3|
+Dror E. Maydan              |            3|
+Gurmeet Singh Manku         |            3|
+Helen Davis                 |            3|
+Jeff Dean                   |            3|
+Josep Torrellas             |            3|
+Mahadevan Ganapathi         |            3|
+Nikki Mirghafori            |            3|
+Peter Schnorf               |            3|
+Randolph Y. Wang            |            3|
+Rohit Chandra               |            3|
+Samuel Williams 0001        |            3|
+Satoshi Asami               |            3|
+Steven A. Przybylski        |            3|
+Steven Cameron Woo          |            3|
+Yigal Brandman              |            3|
+Aaron J. Goldberg           |            2|
+Alvin M. Despain            |            2|
+Brian M. Steele             |            2|
+Christopher Rowen           |            2|
+Christos Kozanitis          |            2|
+David Ofelt                 |            2|
+David R. Ditzel             |            2|
+Edward D. Lazowska          |            2|
+Eric Anderson               |            2|
+Fred C. Chow                |            2|
+Joe Gebis                   |            2|
+K. Gopinath                 |            2|
+Michael J. Flynn            |            2|
+Peter Steenkiste            |            2|
+Richard B. Kieburtz         |            2|
+Richard W. Carr             |            2|
+Scott McFarling             |            2|
+Stephen R. Goldschmidt      |            2|
+Truman Joe                  |            2|
+Vivek Sarkar                |            2|
